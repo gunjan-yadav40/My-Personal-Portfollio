@@ -16,5 +16,5 @@ Responsive design (Mobile + Desktop friendly)
 Resume download option
 <br>
 🔗 **Live Portfolio Website:**  
-👉 https://gunjan-yadav40.github.io/project-2023/
+👉 https://gunjan-yadav40.github.io/My-Personal-Portfollio/
 
